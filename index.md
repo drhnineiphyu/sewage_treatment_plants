@@ -1,3 +1,3 @@
-# Central sewage treatment plants in Bangkok Province
+## Central sewage treatment plants in Bangkok Province
 
-<iframe src="sewage_treatment_plants.html" height="1000" width="1000"></iframe>
+<iframe src="sewage_treatment_plants.html" height="800" width="1200"></iframe>
